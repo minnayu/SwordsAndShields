@@ -2,7 +2,7 @@
  
 1) Minna Yu 2378963 minyu@chapman.edu CPSC 236-03 Swords and Shields
 
-2) Project 05 Github Link
+2) SwordsAndShields Github Link
 
 3) Swords may win only after having one space occupied
 
